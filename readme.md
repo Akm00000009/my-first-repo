@@ -1,27 +1,21 @@
-# This is a large heading
+# Akhilesh Kumar Mishra
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of thing *unknown*,the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I love in the city of Mumbai in the state of Maharashtra.
 
-- This is
-- an unordered
-- list
- 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+Three of my favourite books are:
 
-```
-This is
-a block
-of code
-```
-Here is how you make [a link](https://www.wikipedia.org/).
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-nano readme.md
+- *Ramayana* by Maharishi Valmiki
+- *Mahabharat* by Maharishi Vyas
+- *Prem* by Premchand
+
+### Food
+
+Last night I dreamt of eating these things:
+
+1. Vada Pav
+2. Pani Puri
+3. Sandwitch
