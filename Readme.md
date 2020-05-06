@@ -8,9 +8,9 @@
 4. If guess is greater than count, print guess is far else print guess is close.
 5. If guess is equal then print correct guess.
 
-###Specification
+### Specification
 
-The game *guessing game* is a very beautiful game where the user enters the ** guess ** which is commpared with the file count.
+The game *guessing game* is a very beautiful game where the user enters the **guess** which is commpared with the file count.
 The user here has to guess the number of files in a directory.
 If the guess is correct the player wins.
 
